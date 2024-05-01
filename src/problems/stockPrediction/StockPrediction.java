@@ -1,4 +1,3 @@
-
 /*
  * Developer  : Ali Samanipour
  * Contact    : AliSamanipour.Official@Gmail.com

@@ -2,7 +2,7 @@
  * Developer  : Ali Samanipour
  * Contact    : AliSamanipour.Official@Gmail.com
  * GitHub     : https://github.com/samanipour/
- * Description: An objective function and Solution Space for Finding 3 Degree Polynomial Roots problem with permeation-based solution candidates
+ * Description: An objective function and Solution Space for Finding 3 Degree Polynomial Roots problem
  * assume f(x)= β+α1*x+α2*x^2+α3*x^3
  * */
 package problems.pol3DRoots;

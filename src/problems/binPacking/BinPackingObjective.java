@@ -2,7 +2,7 @@
  * Developer  : Ali Samanipour
  * Contact    : AliSamanipour.Official@Gmail.com
  * GitHub     : https://github.com/samanipour/
- * Description: An objective function for the bin packing problem with permeation-based solution candidates
+ * Description: An objective function for the bin packing problem
  */
 package problems.binPacking;
 import interfaces.IObjectiveFunction;
